@@ -1,2 +1,5 @@
-# APP-DEV
-My first repository
+# MyFavoriteSeries/Movies
+
+- *Wednesday*
+- **Christine**
+- *Cyberpunk: Edgerunners 😭*
